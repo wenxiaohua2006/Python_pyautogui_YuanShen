@@ -1,0 +1,76 @@
+ H  250  G  250  N  250  A  250 
+ V  A  G  500  500  A  G  500  500  B  M  G  500  500  H  250  G  250  N  250  A  250
+ N  A  G  500  500  A  G  500  500  A  G  500  500  H  250  G  250  N  250  A  250
+ V  A  G  500  500  A  G  500  500  B  M  G  500  500  G  J  250  Q  250  J  250  Q  250
+ N  H  Q  500  500 Q 500  500  500  500  H  250  G  250  N  250  A  250
+ V  A  G  500  500  H  250  G  Q  250  Q  250  Q  250  G  J  250 B 500  J  250  J  250  G  J  250 Q 500  G  Q  250
+N 500 C 500  A  G  500  500  A  G  500  500  H  250  G  250  N  250  A  250
+ V  A  G  500  Z  250  H  250  B  G  Q  250  Q  250  Q  250  G  J  250 B 500  X  J  250  J  250  B  G  Q  250 W 500  G  E  250
+Z 500 B 500  A  D  500  500 S 500  500  B  250  A  H  250  G  250  N  250  A  250
+ V  A  G  500  Z  250  D  250  B  Q  E  250  T  250  E  250  W  250 B 500 X 500  B  J  500  Q  250  W  250
+ Z  E  500 E 500  M  W  500  E  250  Q  250 N 500 C 500  A  G  500 N 500
+ V  G  Q  500 Q 500 W 500 E 500  B  W  500  Q  250 J 500  500 J 500
+ Z  Q  500 B 500  A  D  500 B 500  A  S  500  A  250  B  250  H  250  G  250  N  250  A  250
+ V  A  G  250 H 500  H  250  A  D  500  V  G  250  Z  250  B  S  G  500  X  H  250  H  250 M 500  G  250  G  250
+ N  250  D  250 C 500 M 500 A 500  G  J  500 C 500  A  H  250  G  250  N  250  A  250
+ V  A  G  250 H 500  H  250  A  D  500  V  G  250  Z  250  B  G  Q  500  H  125  X  J  250  H  250 M 500 G 500
+ N  A  D  500 C 500 A 500  N  G  500  D  J  500  B  250  C  250  A  H  250  G  250  N  250  A  250
+ V  A  G  500  G  250  H  250  A  D  H  500  Z  G  250  S  G  250 B 500 X 500 M 500  Q  250  W  250
+ Z  E  500  500  M  W  500  500  N  Q  500 C 500  A  G  500 C 500
+V 500  Z  Q  500  B  W  500  Z  E  500  B  W  500  X  Q  250  J  250 B 500 J 500
+ Z  Q  500 B 500 W 500 B 500  S  G  500  500  B  250  A  G  250  S  250  A  250  B  250
+V 500  G  250  H  250  A  D  Q  500  Z  G  250  H  250  B  G  Q  500  X  W  250  W  250 M 500  B  Q  250  W  250
+ Z  Q  125  E  500 E 500  M  G  125  W  500  E  250  G  Q  250 N 500  C  250  N  250  A  G  E  500  W  125  C  250  G  Q  250
+V 500  Q  250  Q  250  A  D  E  250  W  250  Z  250  G  W  250 B 500  X  J  250  J  250  M  G  Q  250 W 500  G  Q  250
+ N  250  H  250 N 500  A  G  500  N  W  250  G  W  500  B  Q  250  N  250  X  250  C  S  G  250  B  250  N  250  A  250
+ V  A  D  500  G  250  H  250  A  D  Q  500  Z  G  250  H  250  B  G  Q  500  W  125  X  250  W  250  M  S  500  Q  250  W  250
+ Z  G  E  500 E 500  M  G  125  W  500  E  250  G  Q  250 N 500  C  250  N  G  250  A  E  250 W 500  G  Q  250
+V 500  Q  250  Q  125  W  125  A  D  E  250  W  250  Z  250  G  W  250 B 500  X  J  250  J  250  M  Q  250 W 500  Q  250
+Z 500 B 500 S 500 B 500  S  G  500  B  Q  250  G  250  S  Q  250  G  250  B  Q  250  G  250
+ Z  D  250  G  250  Q  250  G  250  S  D  Q  250  G  250  Q  250  G  250  S  D  Q  250  G  250  Q  250  G  250  S  D  J  250  G  250  B  J  250  G  250
+ N  Q  250  G  250  Q  250  G  250  A  D  Q  250  G  250  Q  250  G  250  A  D  Q  250  G  250  Q  250  G  250  C  W  250  G  250  W  250  G  250
+ V  Q  250  G  250  Q  250  G  250  A  D  Q  250  G  250  Q  250  G  250  A  D  Q  250  G  250  Q  250  G  250
+ A  D  Q  250  F  250  N  Q  250  F  250
+ Z  Q  250  G  250  B  Q  250  G  250  S  Q  250  G  250  B  Q  250  G  250  S  D  Q  250  G  250  Q  250  W  250
+ S  W  250  G  250  B  Q  250  G  250
+Z 500  E  250  W  250  S  D  E  250  W  250  B  E  500  S  D  250  E  250  E  250  W  250  C  E  250  W  250 Q 500
+N 500  E  250  W  250  A  D  E  250  W  250 E 500  A  D  250  E  250  E  250  W  250  C  E  250  T  250 E 500
+V 500  E  250  W  250  A  D  E  250  W  250  N  E  500  A  D  250  E  250  E  250  W  250  A  D  E  250  W  250  N  Q  500
+V 500  E  250  W  250  A  D  500  B  W  250  Q  250  C  250  Q  250  E  250  W  250  M  D  500  C  Q  250  Q  250
+V 500  G  250  H  250  A  D  G  Q  250  H  250  Z  Q  250  H  250  B  G  Q  500  W  125  X  250  G  W  250 M 500  B  G  Q  250  W  250
+ Z  G  125  E  500  G  E  500  M  G  125  W  500  E  250  G  Q  250 N 500  C  250  N  G  250  A  E  250  W  250  C  250  G  Q  250
+V 500  Q  250  Q  250  G  125  A  D  E  250  W  250  Z  250  G  W  250 B 500  X  J  250  J  250  M  G  Q  250  Q  250  W  250  G  Q  250
+N 500  N  H  250  A  250  D  250  G  250  N  W  250  G  W  500  C  G  Q  250  A  250  G  250  M  W  250  Q  250  J  250  G  250
+ Z  D  500  G  250  H  250  D  G  Q  250  H  250  Z  G  Q  250  H  250  G  Q  500  W  125  Z  250  G  W  250 C 500  Q  250  W  250
+ N  G  125  E  500  G  E  500  A  G  W  500  E  250  G  Q  250  A  G  500  N  250  G  250  B  E  250 W 500  G  Q  500
+ V  G  Q  500  Q  250  Q  250  G  125  A  D  E  250  W  250  Z  250  H  W  250 V 500  V  Q  250  Q  250  A  F  H  W  250  W  250  E  250  G  Q  250
+Z 500 Z 500  B  S  500  Z  250 D 500  S  G  250  B  Q  250  E  250  S  D  G  E  250  W  250  M  Q  250  J  250
+ N  G  125  Q  250  W  250  C  Q  250  M  250  A  250  D  Q  250  Q  250  A  Q  250  D  125  B  J  250  E  250  C  J  E  250  B  250  A  250  G  125  G  125  Q  250  G  250
+ V  D  125  H  500  V  Q  250  A  250  F  G  Q  250  G  250  H  R  250  G  Q  R  250  Z  250  G  E  250  B  250  A  E  250  G  125  M  E  250  W  250  B  Q  250  J  250
+ N  G  125  Q  250  W  250  C  Q  250  M  250  A  250  D  Q  250  Q  250  A  Q  250  D  125  B  J  250  D  E  250  C  D  E  250  B  250  A  250  G  250  A  G  250  G  250
+ V  D  125  H  250  Q  250  G  Q  250  H  250  A  D  G  Q  250  G  W  250  Z  250  G  Q  250 V 500  N  250  Q  250  A  Q  E  500  F  Q  250  F  W  250
+B 500 B 500  A  G  Q  500 S 500  B  G  J  W  500 B 500  S  D  G  Q  500  B  F  W  500
+Z 500  G  E  250  G  W  250  S  D  G  E  250  G  W  250  B  G  E  500  S  D  125  G  125  E  250  G  E  250  F  W  250  C  G  E  250  F  W  250  D  Q  500
+N 500  G  E  250  G  W  250  A  D  G  E  250  G  W  250  B  G  E  500  A  S  250  G  E  250  G  E  250  F  W  250  C  G  E  250  S  T  250  G  E  500
+V 500  G  E  250  G  W  250  A  D  G  E  250  G  W  250  N  G  E  500  A  D  250  G  E  250  G  E  250  F  W  250  A  D  G  E  250  F  W  250  N  D  Q  500
+Z 500  G  E  250  F  W  250  S  D  500  Z  F  W  250  D  Q  500  G  Q  250  B  G  E  250  G  W  250  S  D  500  B  G  W  250  Q  250
+Z 500  G  E  250  G  W  250  S  D  G  E  250  G  W  250  B  G  E  500  S  D  250  G  E  250  G  E  250  F  W  250  C  G  E  250  F  W  250  D  Q  500
+N 500  G  E  250  G  W  250  A  D  G  E  250  G  W  250  B  G  E  500  A  D  250  G  E  250  G  E  250  F  W  250  C  G  E  250  S  T  250  G  E  500
+V 500  G  E  250  G  W  250  A  D  G  E  250  G  W  250  N  G  E  500  A  D  250  G  E  250  G  E  250  F  W  250  A  D  G  E  250  F  W  250  N  D  Q  500
+Z 500  G  E  250  F  W  250  S  D  500  Z  F  W  250  D  Q  500  G  Q  250  B  G  E  250  G  W  250  S  D  500  G  125  B  W  250  G  Q  250
+Z 500  G  E  250  G  W  250  S  D  G  E  250  G  W  250  Z  G  E  500  500  S  G  250 Z 500  C  250  E  250  E  250  W  250
+ N  Q  250  G  250  D  250  G  250  A  D  Q  250  G  250  N  Q  250  Q  T  500  500 C 500  C  250 G 500  500
+ V  W  125  T  250 E 500  T  250  Z  C  E  500  V  T  250 E 500  W  125  Q  125  Z  W  250  Q  250  N  250  D  250  Z  S  250  A  250
+ Z  G  125  W  250 Q 500  G  250  A  S  Q  250  H  250  Z  Q  250 G 500  J  125  G  125  G  125  F  125  D  125  A  125  Z  M  125  B  125  M  125  A  125  B  D  125  F  125  D
+Z 500  G  E  250  G  W  250  S  D  G  E  250  G  W  250  Z  G  E  500  500  Z  G  Q  250  S  G  250  C  250  E  250  Q  250  G  Q  250
+N 500 G 500  A  D  G  E  500  N  G  250 G 500  500  C  W  250  Q  250  C  G  Q  250  G  250  H  250  G  Q  250
+V 500  Q  250  Q  250  A  F  250  Q  250  V  Q  500  F  J  250  G  250  Z  250  F  125  D  125  N  F  250  D  250  Z  A  250  B  250
+ Z  H  250  G  Q  500  E  250  S  D  G  500  Z  H  250  G  Q  500  G  250  Z  Q  250  G  250  B  W  250  G  250  A  E  250  G  250
+ V  A  G  E  500 H 500 Q 500  W  125  E  250  E  250  B  S  250 W 500  500
+ N  D  Q  250  W  250 E 500  500 D 500  J  250  E  250  W  250  Q  250  G  J  250  G  250  Q  250  G  250
+ V  A  500 H 500 Q 500  W  125  E  250  E  250  B  S  250 W 500  500  500  E  250
+ Z  B  W  250  Q  250 Q 500  500  500  500 D 500 J 500  Q  250
+ V  A  G  500 H 500 Q 500  E  250  G  E  250  B  250 W 500  500  500  Q  250
+ N  G  125  W  250 E 500  500  500  500 E 500  500 Q 500  500
+ V  A  125  G  500 Q 500 W 500 E 500  B  G  125  W  500  Q  250 J 500  500  500  500
+ Q  250  D  250  G  125  Z  Q
